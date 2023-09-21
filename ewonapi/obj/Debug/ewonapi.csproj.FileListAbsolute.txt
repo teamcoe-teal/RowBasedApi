@@ -1,0 +1,733 @@
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\ewonapi.dll.config
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\ewonapi.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\ewonapi.pdb
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\csc.exe
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\csc.exe.config
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\csc.rsp
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\csi.exe
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\csi.exe.config
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\csi.rsp
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Console.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\vbc.exe
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\vbc.rsp
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.Helpers.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.Http.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.Mvc.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.Optimization.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.Razor.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.WebPages.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\WebGrease.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.Helpers.xml
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.Http.xml
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.Mvc.xml
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.Optimization.xml
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.Razor.xml
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.WebPages.xml
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\obj\Debug\ewonapi.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\obj\Debug\ewonapi.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\obj\Debug\ewonapi.dll
+C:\Users\Administrator\source\repos\ewonapi\ewonapi\obj\Debug\ewonapi.pdb
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\ewonapi.dll.config
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\ewonapi.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\ewonapi.pdb
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\csc.exe
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\csc.exe.config
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\csc.rsp
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\csi.exe
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\csi.exe.config
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\csi.rsp
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.AppContext.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Collections.Immutable.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Console.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Globalization.Calendars.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.IO.Compression.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.IO.FileSystem.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Net.Http.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Net.Sockets.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Reflection.Metadata.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.ValueTuple.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Xml.XPath.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\vbc.exe
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\vbc.exe.config
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\vbc.rsp
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\VBCSCompiler.exe
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\roslyn\VBCSCompiler.exe.config
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\Antlr3.Runtime.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Logging.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Tokens.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\Microsoft.Web.Infrastructure.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\Newtonsoft.Json.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Net.Http.Formatting.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.Helpers.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.Http.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.Http.WebHost.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.Mvc.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.Optimization.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.Razor.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.WebPages.Deployment.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.WebPages.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.WebPages.Razor.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\WebGrease.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Logging.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Tokens.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\Newtonsoft.Json.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Net.Http.Formatting.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.Helpers.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.Http.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.Http.WebHost.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.Mvc.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.Optimization.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.Razor.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.WebPages.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.WebPages.Deployment.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\System.Web.WebPages.Razor.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\Antlr3.Runtime.pdb
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\obj\Debug\ewonapi.csprojAssemblyReference.cache
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\obj\Debug\ewonapi.csproj.CoreCompileInputs.cache
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\obj\Debug\ewonapi.csproj.CopyComplete
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\obj\Debug\ewonapi.dll
+D:\IIOt POrtal\gateway_to_databaseapi\ewonapi\ewonapi\obj\Debug\ewonapi.pdb
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\ewonapi.dll.config
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\ewonapi.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\ewonapi.pdb
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\csc.exe
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\csc.exe.config
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\csc.rsp
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\csi.exe
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\csi.exe.config
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\csi.rsp
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.AppContext.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Collections.Immutable.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Console.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Globalization.Calendars.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.IO.Compression.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.IO.FileSystem.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Net.Http.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Net.Sockets.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.ValueTuple.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Xml.XPath.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\vbc.exe
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\vbc.exe.config
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\vbc.rsp
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\VBCSCompiler.exe
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\roslyn\VBCSCompiler.exe.config
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\Antlr3.Runtime.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Logging.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\Microsoft.Web.Infrastructure.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\Newtonsoft.Json.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Net.Http.Formatting.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.Helpers.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.Http.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.Http.WebHost.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.Mvc.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.Optimization.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.Razor.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.Deployment.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.Razor.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\WebGrease.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Logging.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\Newtonsoft.Json.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Net.Http.Formatting.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.Helpers.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.Http.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.Http.WebHost.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.Mvc.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.Optimization.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.Razor.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.Deployment.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.Razor.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\Antlr3.Runtime.pdb
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\obj\Debug\ewonapi.csprojAssemblyReference.cache
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\obj\Debug\ewonapi.csproj.CopyComplete
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\obj\Debug\ewonapi.dll
+D:\Onpremises_code\onpremises\one row datalogging\ewonapi\ewonapi\obj\Debug\ewonapi.pdb
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\obj\Debug\ewonapi.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\obj\Debug\ewonapi.pdb
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\ewonapi.dll.config
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\ewonapi.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\ewonapi.pdb
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\csc.exe
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\csc.exe.config
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\csc.rsp
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\csi.exe
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\csi.exe.config
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\csi.rsp
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.AppContext.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Collections.Immutable.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Console.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Globalization.Calendars.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.IO.Compression.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.IO.FileSystem.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Net.Http.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Net.Sockets.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.ValueTuple.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Xml.XPath.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\vbc.exe
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\vbc.exe.config
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\vbc.rsp
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\VBCSCompiler.exe
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\roslyn\VBCSCompiler.exe.config
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\Antlr3.Runtime.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Logging.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\Microsoft.Web.Infrastructure.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\Newtonsoft.Json.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Net.Http.Formatting.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.Helpers.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.Http.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.Http.WebHost.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.Mvc.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.Optimization.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.Razor.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.Deployment.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.Razor.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\WebGrease.dll
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Logging.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\Newtonsoft.Json.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Net.Http.Formatting.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.Helpers.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.Http.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.Http.WebHost.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.Mvc.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.Optimization.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.Razor.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.Deployment.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.Razor.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\Antlr3.Runtime.pdb
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\obj\Debug\ewonapi.csproj.AssemblyReference.cache
+E:\Teal_App\one row datalogging\ewonapi\ewonapi\obj\Debug\ewonapi.csproj.CoreCompileInputs.cache
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\ewonapi.dll.config
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\ewonapi.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\ewonapi.pdb
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\csc.exe
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\csc.exe.config
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\csc.rsp
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\csi.exe
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\csi.exe.config
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\csi.rsp
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.AppContext.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Collections.Immutable.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Console.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Globalization.Calendars.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.IO.Compression.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.IO.FileSystem.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Net.Http.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Net.Sockets.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Reflection.Metadata.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.ValueTuple.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Xml.XPath.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\vbc.exe
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\vbc.exe.config
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\vbc.rsp
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\VBCSCompiler.exe
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\roslyn\VBCSCompiler.exe.config
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\Antlr3.Runtime.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Logging.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Tokens.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\Microsoft.Web.Infrastructure.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\Newtonsoft.Json.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Net.Http.Formatting.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.Helpers.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.Http.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.Http.WebHost.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.Mvc.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.Optimization.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.Razor.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.Deployment.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.Razor.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\WebGrease.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Logging.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\Microsoft.IdentityModel.Tokens.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\Newtonsoft.Json.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Net.Http.Formatting.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.Helpers.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.Http.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.Http.WebHost.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.Mvc.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.Optimization.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.Razor.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.Deployment.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\System.Web.WebPages.Razor.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\Antlr3.Runtime.pdb
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\obj\Debug\ewonapi.csprojAssemblyReference.cache
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\obj\Debug\ewonapi.csproj.CoreCompileInputs.cache
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\obj\Debug\ewonapi.csproj.CopyComplete
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\obj\Debug\ewonapi.dll
+D:\IIOt POrtal\Projects\onpremises new architecture datalogging\one row datalogging\ewonapi\ewonapi\obj\Debug\ewonapi.pdb
+D:\DefaultWebsite\onerowdata\ewonapi\bin\ewonapi.dll.config
+D:\DefaultWebsite\onerowdata\ewonapi\bin\ewonapi.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\ewonapi.pdb
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\csc.exe
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\csc.exe.config
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\csc.rsp
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\csi.exe
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\csi.exe.config
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\csi.rsp
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.AppContext.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Collections.Immutable.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Console.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Globalization.Calendars.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.IO.Compression.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.IO.FileSystem.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Net.Http.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Net.Sockets.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Reflection.Metadata.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.ValueTuple.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Xml.XPath.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\vbc.exe
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\vbc.exe.config
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\vbc.rsp
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\VBCSCompiler.exe
+D:\DefaultWebsite\onerowdata\ewonapi\bin\roslyn\VBCSCompiler.exe.config
+D:\DefaultWebsite\onerowdata\ewonapi\bin\Antlr3.Runtime.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\Microsoft.IdentityModel.Logging.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\Microsoft.IdentityModel.Tokens.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\Microsoft.Web.Infrastructure.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\Newtonsoft.Json.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Net.Http.Formatting.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.Helpers.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.Http.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.Http.WebHost.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.Mvc.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.Optimization.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.Razor.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.WebPages.Deployment.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.WebPages.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.WebPages.Razor.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\WebGrease.dll
+D:\DefaultWebsite\onerowdata\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\Microsoft.IdentityModel.Logging.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\Microsoft.IdentityModel.Tokens.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\Newtonsoft.Json.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Net.Http.Formatting.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.Helpers.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.Http.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.Http.WebHost.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.Mvc.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.Optimization.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.Razor.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.WebPages.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.WebPages.Deployment.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\System.Web.WebPages.Razor.xml
+D:\DefaultWebsite\onerowdata\ewonapi\bin\Antlr3.Runtime.pdb
+D:\DefaultWebsite\onerowdata\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DefaultWebsite\onerowdata\ewonapi\obj\Debug\ewonapi.csproj.AssemblyReference.cache
+D:\DefaultWebsite\onerowdata\ewonapi\obj\Debug\ewonapi.csproj.CoreCompileInputs.cache
+D:\DefaultWebsite\onerowdata\ewonapi\obj\Debug\ewonapi.csproj.CopyComplete
+D:\DefaultWebsite\onerowdata\ewonapi\obj\Debug\ewonapi.dll
+D:\DefaultWebsite\onerowdata\ewonapi\obj\Debug\ewonapi.pdb
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\ewonapi.dll.config
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\ewonapi.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\ewonapi.pdb
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\csc.exe
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\csc.exe.config
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\csc.rsp
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\csi.exe
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\csi.exe.config
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\csi.rsp
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.AppContext.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Collections.Immutable.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Console.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Globalization.Calendars.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.IO.Compression.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.IO.FileSystem.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Net.Http.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Net.Sockets.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Reflection.Metadata.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.ValueTuple.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Xml.XPath.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\vbc.exe
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\vbc.exe.config
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\vbc.rsp
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\VBCSCompiler.exe
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\roslyn\VBCSCompiler.exe.config
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\Antlr3.Runtime.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\Microsoft.IdentityModel.Logging.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\Microsoft.IdentityModel.Tokens.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\Microsoft.Web.Infrastructure.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\Newtonsoft.Json.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Net.Http.Formatting.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.Helpers.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.Http.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.Http.WebHost.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.Mvc.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.Optimization.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.Razor.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.WebPages.Deployment.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.WebPages.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.WebPages.Razor.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\WebGrease.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\Microsoft.IdentityModel.Logging.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\Microsoft.IdentityModel.Tokens.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\Newtonsoft.Json.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Net.Http.Formatting.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.Helpers.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.Http.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.Http.WebHost.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.Mvc.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.Optimization.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.Razor.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.WebPages.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.WebPages.Deployment.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\System.Web.WebPages.Razor.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\Antlr3.Runtime.pdb
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\obj\Debug\ewonapi.csproj.AssemblyReference.cache
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\obj\Debug\ewonapi.csproj.CoreCompileInputs.cache
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\obj\Debug\ewonapi.csproj.CopyComplete
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\obj\Debug\ewonapi.dll
+E:\On-premise\projectT\projectT\onerowdata\ewonapi\obj\Debug\ewonapi.pdb
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\ewonapi.dll.config
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\ewonapi.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\ewonapi.pdb
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\csc.exe
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\csc.exe.config
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\csc.rsp
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\csi.exe
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\csi.exe.config
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\csi.rsp
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.AppContext.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Console.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Net.Http.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\vbc.exe
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\vbc.exe.config
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\vbc.rsp
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\Antlr3.Runtime.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\Newtonsoft.Json.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Net.Http.Formatting.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.Helpers.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.Http.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.Http.WebHost.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.Mvc.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.Optimization.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.Razor.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.WebPages.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\WebGrease.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\Newtonsoft.Json.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Net.Http.Formatting.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.Helpers.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.Http.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.Http.WebHost.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.Mvc.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.Optimization.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.Razor.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.WebPages.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\Antlr3.Runtime.pdb
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\obj\Debug\ewonapi.csproj.AssemblyReference.cache
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\obj\Debug\ewonapi.csproj.CoreCompileInputs.cache
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\obj\Debug\ewonapi.csproj.CopyComplete
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\obj\Debug\ewonapi.dll
+C:\Users\ADX_harie001\Desktop\TEAL Fol\Portal_onprem\DLK API\Updated\onerowdata\ewonapi\obj\Debug\ewonapi.pdb

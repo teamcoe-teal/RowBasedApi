@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ConnectTitan-Web.config Connection String" description="ConnectTitan Connection String used in web.config by the application to access the database." defaultValue="data source=tealiot.database.windows.net;initial catalog=PlantDigitization_Test;User ID=tealmba;Password=admin@123;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\IIOt\ POrtal\\gateway_to_databaseapi\\modification\ for\ improper\ date\\one\ row\ datalogging\\ewonapi\\ewonapi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectTitan']/@connectionString" />
+  </parameter>
+</parameters>
